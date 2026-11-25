@@ -1,0 +1,1 @@
+{"name": "Mein Krafttraining", "short_name": "Krafttraining", "start_url": "./index.html", "display": "standalone", "background_color": "#10151e", "theme_color": "#10151e", "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png"}]}
